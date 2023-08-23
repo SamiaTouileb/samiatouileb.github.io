@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Publications
+permalink: /publications/
 ---
-
-# Curriculum vitae
 
 Currently working as a researcher, so-and-so. 
 
