@@ -16,9 +16,7 @@
 title: Samia Touileb
 email: samia (dot) touileb (at) uib (dot) no
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a researcher at the University of Bergen. Prior to this I was a Postdoc at 
-  the Language Technology Group (LTG), Department of Informatics, at the University of Oslo. 
-  I have a PhD in Natural Language Processing (NLP) from the University of Bergen.
+  Researcher at the University of Bergen. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SamiaTouileb
