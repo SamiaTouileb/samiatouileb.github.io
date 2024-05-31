@@ -7,7 +7,7 @@ permalink: /publications/
 
 - Samia Touileb, Jeanett Murstad, Petter Mæhlum, Lubos Steskal, Lilja Charlotte Storset, Huiling You, and Lilja Øvrelid. [EDEN: A Dataset for Event Detection in Norwegian News](https://aclanthology.org/2024.lrec-main.488.pdf). Proceedings of The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. Torino, Italy, May 20-25, 2024.
 
-- A chapter in the book [``Current Issues in English Teaching''](https://www.fagbokforlaget.no/Current-Issues-in-English-Teaching/I9788245047189), published by Fagbokforlaget. The chapter is tilted ``Large Language Models and their Usage in Education''. 
+- A chapter in the book [Current Issues in English Teaching](https://www.fagbokforlaget.no/Current-Issues-in-English-Teaching/I9788245047189), published by Fagbokforlaget. The chapter is tilted ``Large Language Models and their Usage in Education''. 
 
 #### <u>2023</u>
 
