@@ -3,10 +3,17 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+#### <u>2024</u>
+
+- Samia Touileb, Jeanett Murstad, Petter Mæhlum, Lubos Steskal, Lilja Charlotte Storset, Huiling You, and Lilja Øvrelid. [EDEN: A Dataset for Event Detection in Norwegian News](https://aclanthology.org/2024.lrec-main.488.pdf). Proceedings of The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. Torino, Italy, May 20-25, 2024.
+
+- A chapter in the book [``Current Issues in English Teaching''](https://www.fagbokforlaget.no/Current-Issues-in-English-Teaching/I9788245047189), published by Fagbokforlaget. The chapter is tilted ``Large Language Models and their Usage in Education''. 
 
 #### <u>2023</u>
 
-- *Forthcoming*. Sophie Blum, Raoul Koudijs, Ana Ozaki, Samia Touileb. [Learning Horn Envelopes via Queries to Neural Networks: The BERT Case](https://arxiv.org/pdf/2305.12143.pdf). International Journal of Approximate Reasoning.
+- Helene Bøsei Olsen, Samia Touileb, Erik Velldal. [Arabic dialect identification: An in-depth error analysis on the MADAR parallel corpus](). Proceedings of The First Arabic Natural Language Processing Conference (ArabicNLP 2023). Singapore, Desember 7, 2023.
+
+- Sophie Blum, Raoul Koudijs, Ana Ozaki, Samia Touileb. [Learning Horn Envelopes via Queries to Neural Networks: The BERT Case](https://arxiv.org/pdf/2305.12143.pdf). International Journal of Approximate Reasoning.
 
 - Huiling You, Lilja Øvrelid, Samia Touileb. [JSEEGraph: Joint Structured Event Extraction as Graph Parsing](https://aclanthology.org/2023.starsem-1.11/). Proceedings of The 12th Joint Conference on Lexical and Computational Semantics. Toronto, Canada, July 13-14, 2023.
 

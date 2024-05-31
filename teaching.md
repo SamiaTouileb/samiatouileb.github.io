@@ -12,12 +12,12 @@ In addition to teaching, I have a **university pedagogy training** from 2019, fr
 - [DIGI117 -- Natural Language Processing](https://www.uib.no/emne/DIGI117?sem=2023h).  
 All levels.  
 Department of Information Science and Media Studies. University of Bergen.  
-2023
+2023, 2024
 
 - [INFO371 -- Natural Language Processing](https://www.uib.no/emne/INFO371).  
 Master's level.  
 Department of Information Science and Media Studies. University of Bergen.  
-2022
+2022, 2024
 
 - [IN1140 -- Introduction to Language Technology](https://www.uio.no/studier/emner/matnat/ifi/IN1140/index-eng.html).  
 Bachelor level.  
@@ -63,7 +63,9 @@ Department of Informatics. University of Oslo.
 
 **PhD students**
 
-- [Huiling You](https://www.mn.uio.no/ifi/english/people/aca/huiliny/index.html). University of Oslo. 2021 -- 2025. PhD Thesis: Event detection and extraction. Co-supervised with Lilja Øvrelid. 
+- [Bilal Mahmood](https://mediafutures.no/2023/05/16/bilal-mahmood%EF%BF%BC/). University of Bergen. University of Bergen. 2023 -- 2027. PhD Thesis: Developing and evaluating an impactful media recommender system for responsible user personalization and engagement. Co-supervised with [Mehdi Elahi](https://www.uib.no/en/persons/Mehdi.Elahi).  
+
+- [Huiling You](https://www.mn.uio.no/ifi/english/people/aca/huiliny/index.html). University of Oslo. 2021 -- 2025. PhD Thesis: Event detection and extraction. Co-supervised with [Lilja Øvrelid](https://www.mn.uio.no/ifi/english/people/aca/liljao/). 
 
 **Master's students**
 
