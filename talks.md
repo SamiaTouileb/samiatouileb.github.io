@@ -7,28 +7,23 @@ permalink: /talks/
 - Keynote at the [AI Regulation and Governance: A Cross-Jurisdictional Approach conference](https://www.jus.uio.no/ifp/english/research/projects/nrccl/viros/events/conferences/ai-regulation-and-governance-2024.html), June 2024.
  
 - Invited speaker at the Western Norway Film Fund Industry day (Vestnorske bransjedagar), May 2024.
-Title of my talk: ``Etiske problemstillingar rundt bruken av AI''.
-Link: see details [here](https://vestnorskfilm.no/nyheter/no/program-vestnorske-bransjedagar-2024).
+Title of my talk: [Etiske problemstillingar rundt bruken av AI](https://vestnorskfilm.no/nyheter/no/program-vestnorske-bransjedagar-2024).
 
 - Invited talk at KPMG, Bergen, May 2024.
-Title of the session: ``Kurs: Etikk, sikkerhet og fremtiden med AI''.
-Title of my talk: ``Etikk og AI​''.
-Link: see detaile [here](https://srf.no/arrangement/srf-kurs-etikk-sikkerhet-og-fremtiden-med-ai).
+Title of the session: Kurs: Etikk, sikkerhet og fremtiden med AI.
+Title of my talk: [Etikk og AI](https://srf.no/arrangement/srf-kurs-etikk-sikkerhet-og-fremtiden-med-ai).
 
 - Invited speaker at the Nordic Media Days (Nordiske mediedager), May 2024.
-Title of my talk: ``ChatGPT, Copilot og Bard – hvordan fungerer store språkmodeller?''.
-Link: see details [here](https://nordiskemediedager.no/sesjoner/slik-fungerer-store-sprakmodeller).
+Title of my talk: [ChatGPT, Copilot og Bard – hvordan fungerer store språkmodeller?](https://nordiskemediedager.no/sesjoner/slik-fungerer-store-sprakmodeller).
 
 - Invited speaker the Bergen Chamber of Commerce and Industry seminar, February 2024.
-Title of the seminar ``Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?''. I gave a presentation entitled ``Begrensninger og etiske betraktinger rundt språkmodeller'',  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
-Link: see details [here](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens).
+Title of the seminar ``Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?''. I gave a presentation entitled [``Begrensninger og etiske betraktinger rundt språkmodeller''](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens),  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
 
 - Invited at Metis high school, Bergen, February 2024.
 Invited to give a talk at their ``Internet safety day''. I gave a presentation about AI and large language models, their capabilities and weaknesses.
 
 - Speaker at Lærernes dag 2024, January 2024.
-Invited to give a talk at this years lecturer's day at the University of Bergen. This yearly arrangement attracts teachers from the Bergen area to promote research. The title of my presentation was ``Læring i språkmodellenes tid''.
-Link: see details [here](https://www.bergen-chamber.no/arrangementer/realiser-ai-potensiale-paa-arbeidsplassen-kan-copilot-utloese-mulighetene/program).
+Invited to give a talk at this years lecturer's day at the University of Bergen. This yearly arrangement attracts teachers from the Bergen area to promote research. The title of my presentation was [``Læring i språkmodellenes tid''](https://www.bergen-chamber.no/arrangementer/realiser-ai-potensiale-paa-arbeidsplassen-kan-copilot-utloese-mulighetene/program).
 
 - Invited speaker at the Norwegian Association for the protection of Industrial Property, November 2023.
 Title of the seminar ``Ettermiddagsseminar om kunstig intelligens og immaterialrett''. The seminar organised by opphavsrettsforeningen (Norsk Forening for Opphavsrett) The Norwegian Association for the protection of Industrial Property.
