@@ -18,33 +18,33 @@ Title of my talk: [Etikk og AI](https://srf.no/arrangement/srf-kurs-etikk-sikker
 Title of my talk: [ChatGPT, Copilot og Bard – hvordan fungerer store språkmodeller?](https://nordiskemediedager.no/sesjoner/slik-fungerer-store-sprakmodeller).
 
 - Invited speaker the Bergen Chamber of Commerce and Industry seminar, February 2024.
-Title of the seminar ``Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?''. I gave a presentation entitled [``Begrensninger og etiske betraktinger rundt språkmodeller''](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens),  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
+Title of the seminar ``Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?''. I gave a presentation entitled [Begrensninger og etiske betraktinger rundt språkmodeller](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens),  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
 
 - Invited at Metis high school, Bergen, February 2024.
 Invited to give a talk at their ``Internet safety day''. I gave a presentation about AI and large language models, their capabilities and weaknesses.
 
 - Speaker at Lærernes dag 2024, January 2024.
-Invited to give a talk at this years lecturer's day at the University of Bergen. This yearly arrangement attracts teachers from the Bergen area to promote research. The title of my presentation was [``Læring i språkmodellenes tid''](https://www.bergen-chamber.no/arrangementer/realiser-ai-potensiale-paa-arbeidsplassen-kan-copilot-utloese-mulighetene/program).
+Invited to give a talk at this years lecturer's day at the University of Bergen. This yearly arrangement attracts teachers from the Bergen area to promote research. The title of my presentation was: [Læring i språkmodellenes tid](https://www.bergen-chamber.no/arrangementer/realiser-ai-potensiale-paa-arbeidsplassen-kan-copilot-utloese-mulighetene/program).
 
 - Invited speaker at the Norwegian Association for the protection of Industrial Property, November 2023.
 Title of the seminar ``Ettermiddagsseminar om kunstig intelligens og immaterialrett''. The seminar organised by opphavsrettsforeningen (Norsk Forening for Opphavsrett) The Norwegian Association for the protection of Industrial Property.
-Title of my talk [``Hva er kunstig intelligens i stand til å skape og hva kan vi vente oss i nær fremtid?''](https://www.nirnorge.no/ip-og-ai).
+Title of my talk: [Hva er kunstig intelligens i stand til å skape og hva kan vi vente oss i nær fremtid?](https://www.nirnorge.no/ip-og-ai).
 
 - Interviewed for an article on \textit{forskning.no}}, October 2023.
 Interviewed by Øystein Rygg Haanæs to write an article published on the research platform forskning.no
-Title: [``Språkteknologi på villspor: Drømmer kvinner om å bli voldtatt?''](https://forskning.no/kjonn-og-samfunn-kunstig-intelligens-partner/sprakteknologi-pa-villspor-drommer-kvinner-om-a-bli-voldtatt/2267951).
+Title: [Språkteknologi på villspor: Drømmer kvinner om å bli voldtatt?](https://forskning.no/kjonn-og-samfunn-kunstig-intelligens-partner/sprakteknologi-pa-villspor-drommer-kvinner-om-a-bli-voldtatt/2267951).
 
 - Invited talk at Sampol-Konferansen, October 2023.
 The Comparative Politics Conference, University of Bergen.
-Title: [``Big Science: Gullgruve eller fallgruve?''](https://sampolkonferansen.no/about).
+Title: [Big Science: Gullgruve eller fallgruve?](https://sampolkonferansen.no/about).
 
 - Invited talk at \textbf{The Norwegian Academy of Science and Letters}}, September 2023.
 Det Norske Videnskaps-Akademi.
-Title: [``Store språkmodeller: muligheter og utfordringer''](https://dnva.no/detskjer/2023/04/kunstig-intelligens-chatgpt-hvor-star-vi-hvor-gar-vi).
+Title: [Store språkmodeller: muligheter og utfordringer](https://dnva.no/detskjer/2023/04/kunstig-intelligens-chatgpt-hvor-star-vi-hvor-gar-vi).
 
 - Interviewed for TV 2's impact on society report}, October 2023.
 Interviewed by Øystein Rygg Haanæs to for TV 2's impact on society report to celebrate their 30 years as independant news providers in Norway.
-Title: [``Kunstig intelligens krever åpnehet og integritet''](https://cdn.sanity.io/files/3145n0ft/production/4166f0c75fc648b4a57bd79dcc518606d9387676.pdf).
+Title: [Kunstig intelligens krever åpnehet og integritet](https://cdn.sanity.io/files/3145n0ft/production/4166f0c75fc648b4a57bd79dcc518606d9387676.pdf).
 
 - op-ed piece in Morgenbladet, July 2023.
 Title: [Chat GPT egner seg dårlig til eksamenssensuren](https://www.morgenbladet.no/ideer/debatt/2023/07/14/chat-gpt-og-akademisk-redelighet/).
@@ -87,7 +87,7 @@ Title: [Når kunstig intelligens inntar redaksjonen](https://app.checkin.no/even
 Title: ``ChatGPT: teknologien, datasettet, og det vi (ikke) vet''.
     
 - Invited speaker at its learning webinar, March 2023.
- Title of the webinar: [ChatGPT \& AI in education](https://info.itslearning.com/global/chatgpt-panel)
+ Title of the webinar: [ChatGPT and AI in education](https://info.itslearning.com/global/chatgpt-panel)
     
 - Invited to a podcast episode -- lektorlomsdalen podcast, February 2023.
 Title of the episode: [ChatGPT og etiske perspektiver](https://lektorlomsdalen.no/2023/04/ll-493-samia-touileb-om-chatgpt-og-etiske-perspektiver/).
