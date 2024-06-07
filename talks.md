@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 - Keynote at the [AI Regulation and Governance: A Cross-Jurisdictional Approach conference](https://www.jus.uio.no/ifp/english/research/projects/nrccl/viros/events/conferences/ai-regulation-and-governance-2024.html), June 2024.
+Title of my keynote: ``Questioning the Machine: Decisions, Bias, and Fairness in AI''.
  
 - Invited speaker at the Western Norway Film Fund Industry day (Vestnorske bransjedagar), May 2024.
 Title of my talk: [Etiske problemstillingar rundt bruken av AI](https://vestnorskfilm.no/nyheter/no/program-vestnorske-bransjedagar-2024).
