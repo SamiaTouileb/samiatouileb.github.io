@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 - **Keynote** at the [AI Regulation and Governance: A Cross-Jurisdictional Approach conference](https://www.jus.uio.no/ifp/english/research/projects/nrccl/viros/events/conferences/ai-regulation-and-governance-2024.html), June 2024.
-Title of my keynote: ``Questioning the Machine: Decisions, Bias, and Fairness in AI''.
+Title of my keynote: *Questioning the Machine: Decisions, Bias, and Fairness in AI*.
  
 - Invited speaker at the Western Norway Film Fund Industry day (Vestnorske bransjedagar), May 2024.
 Title of my talk: [Etiske problemstillingar rundt bruken av AI](https://vestnorskfilm.no/nyheter/no/program-vestnorske-bransjedagar-2024).
@@ -18,16 +18,16 @@ Title of my talk: [Etikk og AI](https://srf.no/arrangement/srf-kurs-etikk-sikker
 Title of my talk: [ChatGPT, Copilot og Bard – hvordan fungerer store språkmodeller?](https://nordiskemediedager.no/sesjoner/slik-fungerer-store-sprakmodeller).
 
 - Invited speaker the Bergen Chamber of Commerce and Industry seminar, February 2024.
-Title of the seminar: ``Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?''. I gave a presentation entitled [Begrensninger og etiske betraktinger rundt språkmodeller](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens),  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
+Title of the seminar: *Realiser AI potensialet på arbeidsplassen - Kan Copilot utløse mulighetene?*. I gave a presentation entitled [Begrensninger og etiske betraktinger rundt språkmodeller](https://www.uib.no/l%C3%A6rernesdag/166730/beskrivelse-av-innleggene-til-l%C3%A6rernes-dag-2024#digital-kompetanse-og-kunstig-intelligens),  and  I was a member of a panel discussion. The seminars are directed to members from all companies and industries in the Bergen region.
 
 - Invited at Metis high school, Bergen, February 2024.
-Invited to give a talk at their ``Internet safety day''. I gave a presentation about AI and large language models, their capabilities and weaknesses.
+Invited to give a talk at their *Internet safety day*. I gave a presentation about AI and large language models, their capabilities and weaknesses.
 
 - Speaker at Lærernes dag 2024, January 2024.
 Invited to give a talk at this years lecturer's day at the University of Bergen. This yearly arrangement attracts teachers from the Bergen area to promote research. The title of my presentation was: [Læring i språkmodellenes tid](https://www.bergen-chamber.no/arrangementer/realiser-ai-potensiale-paa-arbeidsplassen-kan-copilot-utloese-mulighetene/program).
 
 - Invited speaker at the Norwegian Association for the protection of Industrial Property, November 2023.
-Title of the seminar: ``Ettermiddagsseminar om kunstig intelligens og immaterialrett''. The seminar organised by opphavsrettsforeningen (Norsk Forening for Opphavsrett) The Norwegian Association for the protection of Industrial Property.
+Title of the seminar: *Ettermiddagsseminar om kunstig intelligens og immaterialrett*. The seminar organised by opphavsrettsforeningen (Norsk Forening for Opphavsrett) The Norwegian Association for the protection of Industrial Property.
 Title of my talk: [Hva er kunstig intelligens i stand til å skape og hva kan vi vente oss i nær fremtid?](https://www.nirnorge.no/ip-og-ai).
 
 - Interviewed for an article on *forskning.no*, October 2023.
@@ -51,14 +51,14 @@ Title: [Chat GPT egner seg dårlig til eksamenssensuren](https://www.morgenblade
 Authors: Pierre Lison (senior researcher at Norwegian ) and Samia Touileb.
 
 - Invited talk at a European Broadcasting Union (EBU) webinar, June 2023. 
-Theme of the webinar: ``LLM Benchmarking Strategies''. 
+Theme of the webinar: *LLM Benchmarking Strategies*. 
 Title of my talk: [Benchmarking the societal and ethical implications of large language models](https://tech.ebu.ch/events/2023/webinar_llm_benchmarking).
 
 - Invited talk at the Norwegian School of Economics (NHH), June 2023.
-Title: ``Demystifying ChatGPT and language models''.
+Title: *Demystifying ChatGPT and language models*.
 
 - Invited talk at the Department of Mathematics, University of Bergen, May 2023.
-Title: ``Large Language models: What are they, and what are their ethical implications?''. 
+Title: *Large Language models: What are they, and what are their ethical implications?*. 
     
 - Invited speaker at Future Week, June 2023.
 Title of the session: [Innovation in the newsroom](https://mediacitybergen.no/futureweek/program/day-1/).
@@ -84,7 +84,7 @@ The episode was a small section of a forthcoming AI series. I talked about NLP a
 Title: [Når kunstig intelligens inntar redaksjonen](https://app.checkin.no/event/55484/kristisk-blikk-pa-chatgpt-og-ai-generert-innhold), organised by Media City Bergen.
     
 - Invited talk at the Department of Archaeology, History, Cultural Studies and Religion, UiB, March 2023.
-Title: ``ChatGPT: teknologien, datasettet, og det vi (ikke) vet''.
+Title: *ChatGPT: teknologien, datasettet, og det vi (ikke) vet*.
     
 - Invited speaker at its learning webinar, March 2023.
  Title of the webinar: [ChatGPT and AI in education](https://info.itslearning.com/global/chatgpt-panel)
@@ -93,19 +93,19 @@ Title: ``ChatGPT: teknologien, datasettet, og det vi (ikke) vet''.
 Title of the episode: [ChatGPT og etiske perspektiver](https://lektorlomsdalen.no/2023/04/ll-493-samia-touileb-om-chatgpt-og-etiske-perspektiver/).
 
 - Invited speaker at Vestland Fylkesommune seminar about teaching, February 2023.
-Title: ``ChatGPT: teknologien, datasettet, og det vi (ikke) vet''.
+Title: *ChatGPT: teknologien, datasettet, og det vi (ikke) vet*.
     
 - Invited speaker at the lecturers' conference 2023 (University of Bergen), February 2023. 
 Invited talk about large language models, their potential and drawbacks for use in education. Solstrand, Bergen.
     
 - Invited speaker and panellist at NORA ground-breaking seminar series, February 2023.
-Title of the talk: [The Societal and Ethical Implications of Language Models](https://www.nora.ai/events/cutting-edge-ai-large-language-models.html). Title of the panel discussion: ``The Ethics of Large Language Models''.
+Title of the talk: [The Societal and Ethical Implications of Language Models](https://www.nora.ai/events/cutting-edge-ai-large-language-models.html). Title of the panel discussion: *The Ethics of Large Language Models*.
     
 - Invited speaker and panellist at UiB AI seminar series, February 2023.
 Title of the seminar: [ChatGPT – trussel eller mulighet i forskning og utdanning?](https://www.uib.no/ai/160136/fullsatt-aula-p%C3%A5-uib-ai-seminar-om-chatgpt).
     
 - Invited talk at Wolftech, February 2023.
-Title: ``Measuring harmful and toxic representations in Scandinavian language models''.
+Title: *Measuring harmful and toxic representations in Scandinavian language models*.
     
 - Invited speaker at ForskningsdageneUNG 2022, September 2022.
 I was invited to give an inspirational talk about my research to high school students during the research days, at the University of Bergen. I gave a presentation about NLP, and tried to motivate future students to seek a degree within informatics, NLP, or the broad field of AI.
@@ -117,6 +117,6 @@ I was invited as a guest to the podcast UiB Popviten. The podcast is the Univers
 Title: [But, why? - make AI answer!](https://www.uib.no/en/ai/152622/uib-ai-2-why-make-ai-answer). I presented and discussed interpretability of neural models. 
     
 - Panel member (invited), March 2022. 
-I was invited to be a member of panel discussion about ``AI, friend, foe, or fad'' at the annual Booster conference, in Bergen. Booster is a software conference organized for developers, project managers, architects, UX professionals, testers, and security professionals. 
+I was invited to be a member of panel discussion about *AI, friend, foe, or fad* at the annual Booster conference, in Bergen. Booster is a software conference organized for developers, project managers, architects, UX professionals, testers, and security professionals. 
 The panel was led by Professor Marija Slavkovik, University of Bergen. The other panelists were Kevin Baum (university of Saarland) and Martin Gundersen (NRK -- Norwegian Broadcasting Corporation). More information can be found [here](https://2022.boosterconf.no/talk/panel-ai-friend-foe-or-fad/).
 
